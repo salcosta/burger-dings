@@ -4,6 +4,9 @@ i dunno, what do you want me to say?  its a font that allows you to make picture
 
 there's a couple glyphs i gotta add like a fried egg, maybe chili.  swiss cheese i guess.
 
+![BurgerDings](https://salcosta.github.io/burger-dings/burgerDings.png)
+
+
 ## Known Issues
 
 - if you want a sesame seed bun you need to include the normal bun underneath it, theres a special class for that.  otherwise the sesame seeds will be transparent.
