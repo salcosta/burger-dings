@@ -50,7 +50,7 @@
 
 .burger .top-bun-back:before{
   content: "a";
-  color:tan;
+  color:#d2b48c;
 }
 
 .burger .top-bun{
@@ -73,12 +73,12 @@
 
 .burger .bottom-bun-inside:before{
   content: "c";
-  color:tan;
+  color:#d2b48c;
 }
 
 .burger .club-inside:before{
   content: "d";
-  color:tan;
+  color:#d2b48c;
 }
 
 .burger .onions{
@@ -99,9 +99,9 @@
   color: #FF6347;
 }
 
-.burger .top-bun-sesame:before{
+.burger .sesame-seeds:before{
   content: "g";
-  color:#CD853F;
+  color:#d2b48c;
 }
 
 .burger .cheese:before{
@@ -126,7 +126,7 @@
 
 .burger .club:before{
   content: "j";
-  color:tan;
+  color:#d2b48c;
 }
 
 .burger .cheese-rotated:before{
