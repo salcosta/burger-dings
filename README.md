@@ -1,5 +1,7 @@
 # burger-dings
 
+> "Burgerdings solves much of the world's issues" - A well-known architect
+
 i dunno, what do you want me to say?  its a font that allows you to make pictures of burgers.
 
 there's a couple glyphs i gotta add like a fried egg, maybe chili.  swiss cheese i guess.
