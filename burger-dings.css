@@ -109,6 +109,11 @@
   color:#ffa500;
 }
 
+.burger .patty.IMPOSSIBLE:before{
+  content: "i";
+  color:#8a3a1d;
+}
+
 .burger .patty:before{
   content: "i";
   color:#8B4513;
